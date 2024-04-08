@@ -94,7 +94,7 @@ Due to issues with forge `tx dropped from mempool` error, deployment was done ma
 | Delegation Manager            | Calibration | 0x3aBA6030358288b8C893F51348684ADC36DeC768 |
 | Miner Slasher                 | Calibration | 0x3f87989d9FAcEe469Bb4D51cf1c6A9cc844Fd15e |
 | IPC Slasher Controller        | Calibration | 0x44b9FE73A2FC99Df85f365D4AC08111a6eb52EAC |
-| IPC Slasher Replica           | Subnet      | 0x31C231AcCBa071d53253Afaf9c8d239254f64D17 |
+| IPC Slasher Replica           | Subnet      | 0xBD238689f9311eC04Dd0c920ACE4800cE79D8d67 |
 
 # InterPlanetary Consensus (IPC)
 
